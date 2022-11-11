@@ -1,9 +1,22 @@
-### Hi there 👋
+Jean Niño de Guzmán--@JeanNinodeGuzman
 
-<!--
-**JeanNinodeGuzman/JeanNinodeGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Jean-- estudiante de Economía de último año de la Pontificia Universidad Católica del Perú. Manejo los lenguajes de Stata, Matlab, Python, R. He realizado trabajos de resolución de problemas de cursos en los lenguajes de Python, R, Matlab y Stata.
 
-Here are some ideas to get you started:
+### Mis valores
+
+🔭 Curiosidad...
+💬 Expresión auténtica...
+⚡ Confianza y seguridad...
+
+### Cómo trabajo
+
+...
+
+### Contacto
+
+...
+
+Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
