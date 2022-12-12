@@ -1,4 +1,4 @@
-Jean Niño de Guzmán--@JeanNinodeGuzman
+# Jean Niño de Guzmán-- @JeanNinodeGuzman
 
 Hola, soy Jean-- estudiante de Economía de último año de la Pontificia Universidad Católica del Perú. Manejo los lenguajes de Stata, Matlab, Python, R. He realizado Report Assistant en los lenguajes de Python, R, Matlab y Stata en cursos de la universidad.
 
